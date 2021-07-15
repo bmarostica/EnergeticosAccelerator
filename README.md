@@ -24,7 +24,9 @@ Questão bônus: como meio de bonificação/desconto foram inseridas cláusulas 
 
 
 Execução para um estabelecimento:
+
 ![compra de um estabelecimento](imagens/imagem1.png)
 
 Execução para mais de um estabelecimento:
+
 ![Compra de mais de um estabeleciomento](imagens/imagem2.png)
