@@ -1,0 +1,23 @@
+
+‚
+java:S1192 "`Define a constant instead of duplicating this literal "Valor COM desconto: R$%.2f %n%n" 3 times.(•’¨øÿÿÿÿ8ÂàÈ¸ª/
+l
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¯±ô—
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êœíìúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åİåÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(“…¡
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(•’¨øÿÿÿÿ
+M	java:S106%"9Replace this use of System.out or System.err by a logger.(ß£„Z
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(•’¨øÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(âö’÷
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(•’¨øÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(Ìã³ÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(Äº­Ä
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(·¥‘ä
+E
+java:S6212="/Declare this local variable with "var" instead.(€õûÚ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(öÓ‘Ü
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(¦ïŸ¥şÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(Îƒö¬
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(ßÏœûÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(¯„º¡şÿÿÿÿ
